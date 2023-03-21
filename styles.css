@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 #header{
-	font-size:23px;
+	
 	color:white;
 	background:#011e29;
 	text-align:center;
@@ -44,7 +44,7 @@
 	background:white;
 	height:200px;
 	text-align:center;
-	margin-left:-6px;
+	margin-left:4px;
 	width:800px;
 	border-radius:20px;
 	padding:10px 10px 10px;
