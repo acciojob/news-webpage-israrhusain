@@ -4,15 +4,15 @@
 	color:white;
 	background:#011e29;
 	text-align:center;
-	padding:15px;
+	padding:3px;
 }
-#item3{
+.pictorial-news-section{
 	font-size:20px;
 	font-weight:bold;
 	background:white;
-	height:400px;
+	height:300px;
 	text-align:center;
-	width:400px
+	width:200px
 	border-radius:30px;
 	margin-left:-30px;
 	padding-right:10px;
@@ -21,10 +21,10 @@
 	
 }
 
-#item1{
-	background:white;
+.latest-news-section{
+	background-color:white;
 	width:400px;
-	height:170px;
+	height:120px;
 	font-weight:20px;
 	text-align:center;
 	border-radius:20px;
@@ -39,26 +39,26 @@
 	 text-align:justify;
 }
 #item2{
-	font-size:20px;
+	font-size:15px;
 	margin-right:-5px;
 	background:white;
 	height:200px;
 	text-align:center;
 	margin-left:4px;
-	width:800px;
+	width:600px;
 	border-radius:20px;
 	padding:10px 10px 10px;
 	
 	
 }
-#item3,div{
+.pictorial-news-section,div{
 	margin:6px 10px;
     
 	
 }
     .image1{
-	width:250px;
-	height:150px;
+	width:200px;
+	height:120px;
    
 }
 .main{
